@@ -4,6 +4,7 @@ RENCANA BELAJAR ZWAR
   # pahami dan implementasikan
 - Konsistensi belajar
   # Membagi waktu
+  # Jangan Santai-santai
 - Belajar dasar Laravel
 - Belajar membuat project 
 - Mengimplementasikan yang sudah dipelajari
