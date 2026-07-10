@@ -1,0 +1,7 @@
+RENCANA BELAJAR ZWAR
+- Belajar CodeIgniter 5
+  # dari WPU & Yt lain
+  # pahami dan implementasikan
+- Belajar dasar Laravel
+- Belajar membuat project 
+- Mengimplementasikan yang sudah dipelajari
